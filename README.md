@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UsernameHarry
-- 👀 I’m interested in neural networks, game creation, chemistry and maths.
-- 🌱 I’m currently learning biology, chemistry, maths and computer science (A Levels).
+- 👀 I’m a Chemistry student at UoE
+- 🌱 
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
